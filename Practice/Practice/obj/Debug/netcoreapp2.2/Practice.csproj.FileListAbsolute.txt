@@ -1,0 +1,14 @@
+C:\Users\jjohnson\source\repos\Practice\Practice\bin\Debug\netcoreapp2.2\Practice.deps.json
+C:\Users\jjohnson\source\repos\Practice\Practice\bin\Debug\netcoreapp2.2\Practice.runtimeconfig.json
+C:\Users\jjohnson\source\repos\Practice\Practice\bin\Debug\netcoreapp2.2\Practice.runtimeconfig.dev.json
+C:\Users\jjohnson\source\repos\Practice\Practice\bin\Debug\netcoreapp2.2\Practice.dll
+C:\Users\jjohnson\source\repos\Practice\Practice\bin\Debug\netcoreapp2.2\Practice.pdb
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.csproj.CoreCompileInputs.cache
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.RazorAssemblyInfo.cache
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.RazorAssemblyInfo.cs
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.AssemblyInfoInputs.cache
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.AssemblyInfo.cs
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.RazorTargetAssemblyInfo.cache
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.dll
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.pdb
+C:\Users\jjohnson\source\repos\Practice\Practice\obj\Debug\netcoreapp2.2\Practice.csprojAssemblyReference.cache
